@@ -7,4 +7,4 @@
 
 
 ## Experiencia
-+ Trabalhei na empresa arcos dourados comercio de alimentos.
++ Trabalho na empresa arcos dourados comercio de alimentos.
