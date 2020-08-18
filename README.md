@@ -1,4 +1,4 @@
-# Vinicius Souza Brandao
+# Vinicius Souza Brandão
 
 ## Formação acadêmica 
 + TADS Uninove (2020-1 - )
