@@ -1,6 +1,6 @@
 # Vinicius Souza Brandao
 
-## Formaçao academica 
+## Formação acadêmica 
 + TADS Uninove (2020-1 - )
 + ETEC Informatica (2015-2017)
 
