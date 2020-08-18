@@ -1,8 +1,8 @@
 # Vinicius Souza Brandao
 
-Formaçao academica 
-+ TADS UNINOVE (2020-1 - )
-+ ETEC INFORMATCA (2015-2017)
+## Formaçao academica 
++ TADS Uninove (2020-1 - )
++ ETEC Informatica (2015-2017)
 
-# Experiencia
+## Experiencia
 + Trabalhei na empresa arcos dourados comercio de alimentos.
